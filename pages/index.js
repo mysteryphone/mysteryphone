@@ -24,7 +24,7 @@ export default function Index(props) {
 
   return (
     <>
-      <MetaTags title="Desert Blog" desc="Nothing to see here." image="https://mysteryphone.com/blog_01.jpeg" />
+      <MetaTags title="Mystery Phone" desc="Nothing to see here." image="https://mysteryphone.com/blog_01.jpeg" />
       <Layout>
         <Title />
         <div>

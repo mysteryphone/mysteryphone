@@ -20,7 +20,7 @@ function Title(props) {
     <div className="center">
       <a href="/">
         <ThemeProvider theme={theme}>
-          <Typography component="h1" variant="h1">
+          <Typography component="h1" variant="h3">
             {h1 ? h1 : 'mystery phone'}
           </Typography>
         </ThemeProvider>
