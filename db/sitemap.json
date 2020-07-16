@@ -1,0 +1,58 @@
+[
+  {
+    "url": "blog-9",
+    "image": "/IMG_4360.jpg",
+    "date": "June 13, 2020",
+    "title": "Palm tree cutting season"
+  },
+  {
+    "url": "blog-8",
+    "image": "/IMG_4405.JPG",
+    "date": "June 13, 2020",
+    "title": "Colorful stuff"
+  },
+  {
+    "url": "blog-7",
+    "image": "/IMG_4374.JPG",
+    "date": "June 6, 2020",
+    "title": "Found a spot"
+  },
+  {
+    "id": 6,
+    "url": "blog-6",
+    "image": "/IMG_4327.JPG",
+    "date": "May 29, 2020",
+    "title": "Pink skies tonight"
+  },
+  {
+    "id": 5,
+    "url": "blog-5",
+    "image": "/IMG_4323.JPG",
+    "date": "May 29, 2020",
+    "title": "Beto's 2020"
+  },
+  {
+    "url": "blog-4",
+    "image": "/IMG_4317.JPG",
+    "date": "May 25, 2020",
+    "title": "Thunderbird"
+  },
+  {
+    "url": "blog-3",
+    "image": "/IMG_8529.JPG",
+    "date": "May 2, 2020",
+    "title": "40 solar panels"
+  },
+  {
+    "url": "blog-2",
+    "image": "/IMG_6315.JPG",
+    "date": "May 2, 2020",
+    "title": "Playboy bunny"
+  },
+  {
+    "url": "blog-1",
+    "image": "/IMG_4053.JPG",
+    "date": "April 14, 2020",
+    "title": "Desert sand-verbena"
+  }
+]

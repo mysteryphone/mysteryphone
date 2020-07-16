@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <atom:link href="https://mysteryphone.com/rss.xml" rel="self" type="application/rss+xml" />
+      <title>Mystery Phone.</title>
+      <link>https://mysteryphone.com</link>
+      <description>A Mystery Phonedemo witn next.js.</description>
+      <image>
+          <url>https://mysteryphone.com/favicon-152.png</url>
+          <title>Mystery Phone.</title>
+          <link>https://mysteryphone.com</link>
+          <description>Mystery Phone. Logo</description>
+      </image>
+        <item>
+            <title>Desert sand-verbena</title>
+            <guid>https://mysteryphone.com0</guid>
+            <description>A photo of Desert sand-verbena</description>
+            <pubDate>Tue, 14 Apr 2020 07:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>The pool is a bath for adult babies</title>
+            <guid>https://mysteryphone.com1</guid>
+            <description>A photo of The pool is a bath for adult babies</description>
+            <pubDate>Sat, 02 May 2020 07:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>40 solar panels</title>
+            <guid>https://mysteryphone.com2</guid>
+            <description>A photo of 40 solar panels</description>
+            <pubDate>Sat, 02 May 2020 07:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Thunderbird</title>
+            <guid>https://mysteryphone.com3</guid>
+            <description>A photo of Thunderbird</description>
+            <pubDate>Mon, 25 May 2020 07:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Beto's 2020</title>
+            <guid>https://mysteryphone.com4</guid>
+            <description>A photo of Beto's 2020</description>
+            <pubDate>Fri, 29 May 2020 07:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Pink skies tonight</title>
+            <guid>https://mysteryphone.com5</guid>
+            <description>A photo of Pink skies tonight</description>
+            <pubDate>Fri, 29 May 2020 07:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Found a spot</title>
+            <guid>https://mysteryphone.com6</guid>
+            <description>A photo of Found a spot</description>
+            <pubDate>Sat, 06 Jun 2020 07:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Colorful stuff</title>
+            <guid>https://mysteryphone.com7</guid>
+            <description>A photo of Colorful stuff</description>
+            <pubDate>Sat, 13 Jun 2020 07:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Palm tree cutting season</title>
+            <guid>https://mysteryphone.com8</guid>
+            <description>A photo of Palm tree cutting season</description>
+            <pubDate>Sat, 13 Jun 2020 07:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
